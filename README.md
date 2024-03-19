@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavanar&label=Profile%20views&color=0e75b6&style=flat" alt="madhavanar" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/madhavan a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/madhavan-a-86780228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> </p>
 
 - 🌱 I’m currently learning **Next JS, Shadcn UI**
 
