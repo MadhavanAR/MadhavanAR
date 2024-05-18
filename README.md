@@ -1,6 +1,6 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://madhavanar.github.io/)
 
-<div  align="center" > 
+<div align="center"> 
   <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41F0BFED&random=false&width=435&lines=Hello+there!+My+name+is+Madhavan.%F0%9F%91%8B;A+passionate+MERN+Stack+Developer.+" alt="Typing SVG" /></a>
   </h1>
@@ -52,7 +52,10 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></td>
     <td><img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></td>  
     <td><img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
-			
+  </tr>
+  <tr>
+    <td><img src="https://shadcn.dev/logo.png" alt="Shadcn UI" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextui" width="40" height="40"/></td>
   </tr>
 </table>
 
