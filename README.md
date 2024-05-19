@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/madhavan-a-86780228a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Shadcn UI**
+- 🌱 I’m currently learning **Next.js, Next UI**
 
 - 👨‍💻 All of my projects are available at [https://madhavanar.github.io/](https://madhavanar.github.io/)
 
@@ -54,7 +54,7 @@
     <td><img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
   </tr>
   <tr>
-    <td><img src="https://shadcn.dev/logo.png" alt="Shadcn UI" width="40" height="40"/></td>
+    <td><img src="https://suhelmakkad.gallerycdn.vsassets.io/extensions/suhelmakkad/shadcn-ui/0.1.1/1695843310552/Microsoft.VisualStudio.Services.Icons.Default" alt="Shadcn UI" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextui" width="40" height="40"/></td>
   </tr>
 </table>
