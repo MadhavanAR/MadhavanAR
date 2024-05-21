@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td><img src="https://suhelmakkad.gallerycdn.vsassets.io/extensions/suhelmakkad/shadcn-ui/0.1.1/1695843310552/Microsoft.VisualStudio.Services.Icons.Default" alt="Shadcn UI" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextui" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Reactjs" width="40" height="40"/></td>
   </tr>
 </table>
 
