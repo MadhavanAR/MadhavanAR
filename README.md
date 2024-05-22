@@ -56,6 +56,7 @@
   <tr>
     <td><img src="https://suhelmakkad.gallerycdn.vsassets.io/extensions/suhelmakkad/shadcn-ui/0.1.1/1695843310552/Microsoft.VisualStudio.Services.Icons.Default" alt="Shadcn UI" width="40" height="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Reactjs" width="40" height="40"/></td>
+    <td><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Nodejs" width="40" height="40"/></td>
   </tr>
 </table>
 
