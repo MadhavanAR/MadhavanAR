@@ -57,6 +57,8 @@
     <td><img src="https://suhelmakkad.gallerycdn.vsassets.io/extensions/suhelmakkad/shadcn-ui/0.1.1/1695843310552/Microsoft.VisualStudio.Services.Icons.Default" alt="Shadcn UI" width="40" height="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Reactjs" width="40" height="40"/></td>
     <td><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Nodejs" width="40" height="40"/></td>
+    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" height="40"/></td>
+			
   </tr>
 </table>
 
