@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js, Next UI**
 
-- 👨‍💻 All of my projects are available at [https://madhavanar.github.io/](https://madhavanar.github.io/)
+- 👨‍💻 All of my projects are available at [MadhavanAR](https://dub.sh/MadhavanAR)
 
 - 💬 Ask me about **MERN , FIGMA**
 
