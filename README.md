@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/madhavan-a-86780228a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Next UI**
+- 🌱 I’m currently learning **Next.js, Nest.js**
 
 - 👨‍💻 All of my projects are available at [MadhavanAR](https://dub.sh/MadhavanAR)
 
