@@ -4,9 +4,19 @@
   </h1>
 </div>
 
-<p align="center">
-   I’m Madhavan, a Full Stack Developer at Vizdale.<br>
-   Committed to continuous learning and sharing knowledge through mentoring and workshops.<br>
+<p align="">
+   WHAT I DO?<br>
+    🔹 Empowering businesses with cutting-edge web development solutions.<br>
+    🔹 Focused on innovation, scalability, and user-centered design.<br>
+    🔹 Delivering high-performance digital experiences.<br><br>
+   HOW I DO IT?<br>
+    🔹 Combining advanced skills in React, Next.js, and Node.js.<br>
+    🔹 Creating seamless front-end and back-end integrations.<br>
+    🔹 Implementing scalable and robust solutions for all business sizes.<br><br>
+   WHY IT WORKS<br>
+    🔹 Attention to detail ensures impactful projects.<br>
+    🔹 Fusing technical excellence with business needs.<br>
+    🔹 Proven strategies to empower businesses to scale.<br><br>
    As Robert C. Martin said, <strong>“Clean code always looks like it was written by someone who cares”</strong>.<br>
 </p>
 
