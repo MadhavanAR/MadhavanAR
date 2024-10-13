@@ -93,8 +93,6 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MadhavanAR&theme=radical)
 
-<img src="https://raw.githubusercontent.com/MadhavanAR/MadhavanAR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ![MadhavanAR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhavanAR&theme=github-compact)
 
 <div align="center">
