@@ -95,6 +95,8 @@
 
 ![MadhavanAR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhavanAR&theme=github-compact)
 
+[![An image of @madhavanar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavanar)](https://holopin.io/@madhavanar)
+
 <div align="center">
 
 ### Made By ❤️ MADHAVAN © Copyright. All Rights Reserved @2024.
