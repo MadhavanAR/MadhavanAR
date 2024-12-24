@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<p align="">
+<p align="center">
     Ideate 🔹 Innovate 🔹 Integrate
 </p>
 
