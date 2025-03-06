@@ -1,18 +1,17 @@
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <li>
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F7DE&width=435&lines=Hello+there!+My+name+is+Madhavan.+%F0%9F%91%8B%F0%9F%A4%93" alt="Typing SVG" />
-      </h1>
-    </li>
-  </ul>
-  <p>
-    Full Stack Visionary crafting seamless digital experiences - where code meets creativity⚡
-  </p>
-</div>
+```plaintext
+╔════════════════════════ Hey There! ════════════════════════╗ ✨ Madhavan AR
+║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ 🚀Tech Philosophy
+║ - where code meets creativity⚡                           ║      ┣━━ 🔹Scalable Code 
+║ I engineer AI-powered solutions, scalable apps, and        ║     ┣━━ 🔹Smart Automation  
+║ automation workflows, optimizing efficiency by 40%.        ║ ┣━━ 🏆Recognitions
+║ Speaker, mentor, and tech enthusiast shaping innovation.   ║     ┣━━ 🏅 Hackathon Jury x3
+║ Bridging the gap between ideas and impactful technology.   ║     ┣━━ 🏅 Best Research Paper Award
+║ Let’s build the future together!                           ║ ┣━━ 🔥Core Strengths
+║ Surpass your limits. Right here. Right now.                ║     ┣━━ ⚡AI Solutions  
+╚════════════════════════════════════════════════════════════╝     ┣━━ ⚡System Design
+```
 
-
-<hr>
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⚒️+Languages+and+Tools:&color=FFFFFF)](https://git.io/typing-svg)
 
@@ -32,13 +31,16 @@
 
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📊+Github+Stats:&color=FFFFFF)](https://git.io/typing-svg)
 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=MadhavanAR&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavanAR&layout=compact&theme=radical" alt="Top Languages"/> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavanAR&show_icons=true&theme=radical" alt="GitHub Stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavanAR&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=MadhavanAR&theme=radical" alt="Trophy"/> -->
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavanAR&theme=github-compact" alt="GitHub Activity Graph"/> -->
 
-<!--   <a href="https://holopin.io/@madhavanar"><img src="https://holopin.me/madhavanar" alt="Holopin Badges"/></a> -->
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💰+You+can+help+me+by+Donating:&color=FFFFFF)](https://git.io/typing-svg)
 
 <p>
