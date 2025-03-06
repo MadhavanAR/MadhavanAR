@@ -46,7 +46,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📫+How+to+reach+me:&color=FFFFFF)](https://git.io/typing-svg)
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/madhavan25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/madhavan25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!--         <a href="https://linktr.ee/MadhavanAR"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/></a> -->
         <a href="mailto:madhavan.webdev@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
         <a href="https://medium.com/@madhavanu555"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
