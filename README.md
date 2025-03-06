@@ -1,14 +1,14 @@
 ```plaintext
-     ╔════════════════════════ Hey There! ════════════════════════╗ ✨ Madhavan AR
-     ║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ 🚀Tech Philosophy
-     ║ - where code meets creativity⚡                           ║      ┣━━ 🔹Scalable Code 
-     ║ I engineer AI-powered solutions, scalable apps, and        ║     ┣━━ 🔹Smart Automation  
-     ║ automation workflows, optimizing efficiency by 40%.        ║ ┣━━ 🏆Recognitions
-     ║ Speaker, mentor, and tech enthusiast shaping innovation.   ║     ┣━━ 🏅 Hackathon Jury x3
-     ║ Bridging the gap between ideas and impactful technology.   ║     ┣━━ 🏅 Best Research Paper Award
-     ║ Let’s build the future together!                           ║ ┣━━ 🔥Core Strengths
-     ║ Surpass your limits. Right here. Right now.                ║     ┣━━ ⚡AI Solutions  
-     ╚════════════════════════════════════════════════════════════╝     ┣━━ ⚡System Design
+        ╔════════════════════════ Hey There! ════════════════════════╗ ✨ Madhavan AR
+        ║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ 🚀Tech Philosophy
+        ║ - where code meets creativity⚡                           ║      ┣━━ 🔹Scalable Code 
+        ║ I engineer AI-powered solutions, scalable apps, and        ║     ┣━━ 🔹Smart Automation  
+        ║ automation workflows, optimizing efficiency by 40%.        ║ ┣━━ 🏆Recognitions
+        ║ Speaker, mentor, and tech enthusiast shaping innovation.   ║     ┣━━ 🏅 Hackathon Jury x3
+        ║ Bridging the gap between ideas and impactful technology.   ║     ┣━━ 🏅 Best Research Paper Award
+        ║ Let’s build the future together!                           ║ ┣━━ 🔥Core Strengths
+        ║ Surpass your limits. Right here. Right now.                ║     ┣━━ ⚡AI Solutions  
+        ╚════════════════════════════════════════════════════════════╝     ┣━━ ⚡System Design
 ```
 
 ---
