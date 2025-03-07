@@ -72,8 +72,7 @@
 
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://buymeacoffee.com/madhavanar"> -->
-  <a href="https://www.buymeacoffee.com/madhavanar?amount=2">
+  <a href="https://buymeacoffee.com/madhavanar">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
