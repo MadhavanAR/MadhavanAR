@@ -1,7 +1,7 @@
 ```plaintext
         ╔════════════════════════ Hey There! ════════════════════════╗ ✨ Madhavan AR
         ║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ 🚀Tech Philosophy
-        ║ - where code meets creativity⚡                           ║     ┣━━ 🔹Scalable Code 
+        ║ - where code meets creativity⚡                             ║     ┣━━ 🔹Scalable Code 
         ║ I engineer AI-powered solutions, scalable apps and         ║     ┣━━ 🔹Smart Automation  
         ║ automation workflows, optimizing efficiency by 40%.        ║ ┣━━ 🏆Recognitions
         ║ Speaker, mentor and tech enthusiast shaping innovation.    ║     ┣━━ 🏅 Jury & Speaker @10+ Tech Events
