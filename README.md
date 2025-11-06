@@ -1,5 +1,5 @@
 ```plaintext
-        ╔════════════════════════ Hey There! ════════════════════════╗  Madhavan AR
+        ╔════════════════════════ Hey There! ════════════════════════╗ 
         ║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ Tech Philosophy
         ║ - where code meets creativity⚡                             ║     ┣━━ 🔹Scalable Code 
         ║ I engineer AI-powered solutions, scalable apps and         ║     ┣━━ 🔹Smart Automation  
