@@ -56,17 +56,6 @@
 </div>
 
 
-
----
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📊+Github+Stats:&color=FFFFFF)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavanAR&show_icons=true&theme=radical" alt="GitHub Stats"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavanAR&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=MadhavanAR&theme=radical" alt="Trophy"/> -->
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavanAR&theme=github-compact" alt="GitHub Activity Graph"/> -->
-
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💰+You+can+help+me+by+Donating:&color=FFFFFF)](https://git.io/typing-svg)
 
