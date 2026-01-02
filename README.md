@@ -11,16 +11,16 @@
         ╚════════════════════════════════════════════════════════════╝     ┣━━ ⚡ System Design
 ```
 ```plaintext
-╔════════════════════ Hey There! ═════════════════════╗
-║ Software Engineer focused on how good systems work  ║ ┣━━ Engineering Principles
-║ Learning from core SDE books & real failures        ║    ┣━━ Ownership over excuses
-║ Turning principles into small, runnable examples    ║    ┣━━ Simplicity over cleverness
-║                                                     ║    ┣━━ Design for failure
-║ Philosophy: simplicity, ownership, reliability      ║ ┣━━ What I Build
-║ Learning in public — one decision a day             ║    ┣━━ Clean, maintainable code
-║                                                     ║    ┣━━ Backend & system thinking
-║ If it works in production, it works                 ║    ┣━━ Automation & reliability
-╚════════════════════════════════════════════════=════╝
+        ╔════════════════════ Hey There! ═════════════════════╗
+        ║ Software Engineer focused on how good systems work  ║ ┣━━ Engineering Principles
+        ║ Learning from core SDE books & real failures        ║    ┣━━ Ownership over excuses
+        ║ Turning principles into small, runnable examples    ║    ┣━━ Simplicity over cleverness
+        ║                                                     ║    ┣━━ Design for failure
+        ║ Philosophy: simplicity, ownership, reliability      ║ ┣━━ What I Build
+        ║ Learning in public — one decision a day             ║    ┣━━ Clean, maintainable code
+        ║                                                     ║    ┣━━ Backend & system thinking
+        ║ If it works in production, it works                 ║    ┣━━ Automation & reliability
+        ╚════════════════════════════════════════════════=════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⚒️+Languages+and+Tools:&color=FFFFFF)](https://git.io/typing-svg)
