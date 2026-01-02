@@ -1,23 +1,11 @@
 ```plaintext
-        ╔════════════════════════ Hey There! ════════════════════════╗ 
-        ║ Full Stack Visionary crafting seamless digital experiences ║ ┣━━ Tech Philosophy
-        ║ - where code meets creativity⚡                             ║     ┣━━ 🔹 Scalable Code 
-        ║ I engineer AI-powered solutions, scalable apps and         ║     ┣━━ 🔹 Smart Automation  
-        ║ automation workflows, optimizing efficiency by 40%.        ║ ┣━━ Recognitions
-        ║ Speaker, mentor and tech enthusiast shaping innovation.    ║     ┣━━ 🏅 Jury & Speaker @10+ Tech Events
-        ║ Bridging the gap between ideas and impactful technology.   ║     ┣━━ 🏅 Best Research Paper Award
-        ║ Let’s build the future together!                           ║ ┣━━ Core Strengths
-        ║ Surpass your limits. Right here. Right now.                ║     ┣━━ ⚡ AI Solutions  
-        ╚════════════════════════════════════════════════════════════╝     ┣━━ ⚡ System Design
-```
-```plaintext
         ╔════════════════════ Hey There! ═════════════════════╗
         ║ Software Engineer focused on how good systems work  ║ ┣━━ Engineering Principles
         ║ Learning from core SDE books & real failures        ║    ┣━━ Ownership over excuses
         ║ Turning principles into small, runnable examples    ║    ┣━━ Simplicity over cleverness
         ║                                                     ║    ┣━━ Design for failure
         ║ Philosophy: simplicity, ownership, reliability      ║ ┣━━ What I Build
-        ║ Learning in public — one decision a day             ║    ┣━━ Clean, maintainable code
+        ║ Focus: clean code, system design, automation        ║    ┣━━ Clean, maintainable code
         ║                                                     ║    ┣━━ Backend & system thinking
         ║ If it works in production, it works                 ║    ┣━━ Automation & reliability
         ╚════════════════════════════════════════════════=════╝
