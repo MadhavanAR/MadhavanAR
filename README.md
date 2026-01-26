@@ -8,7 +8,7 @@
         ║ Focus: clean code, system design, automation        ║    ┣━━ Clean, maintainable code
         ║                                                     ║    ┣━━ Backend & system thinking
         ║ If it works in production, it works                 ║    ┣━━ Automation & reliability
-        ╚════════════════════════════════════════════════=════╝
+        ╚═════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⚒️+Languages+and+Tools:&color=FFFFFF)](https://git.io/typing-svg)
