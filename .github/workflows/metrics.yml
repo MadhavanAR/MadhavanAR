@@ -1,0 +1,88 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Daily at 00:00 UTC (05:30 AM IST)
+
+permissions:
+  contents: write
+
+jobs:
+  should-run:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.roll.outputs.proceed }}
+    steps:
+      - name: Random skip run
+        id: roll
+        run: |
+          roll=$(( RANDOM % 7 ))
+          echo "🎲 Roll = $roll"
+
+          if [ $roll -gt 3 ]; then
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+            echo "⏩ Skipping today (no metrics update)"
+          else
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            echo "✅ Running metrics today"
+          fi
+
+  github-metrics:
+    needs: should-run
+    if: needs.should-run.outputs.proceed == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          user: MadhavanAR
+          base: header
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+      - name: Follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          user: MadhavanAR
+          base: ""
+          plugin_followup: yes
+
+      - name: Comment Reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          user: MadhavanAR
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_details: count, percentage
+
+      - name: Contributions Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          user: MadhavanAR
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
